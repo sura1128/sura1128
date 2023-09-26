@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi! I am Su! 👋
+I am currently a Pipeline Technical Director at Lucasfilm, The Walt Disney Company. I've spent 7 years developing digital solutions for renowned film industry leaders including Marvel Studios, Lucasfilm, Amazon Studios, and Netflix. 
 
 <!--
 **sura1128/sura1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
