@@ -1,4 +1,4 @@
-# Hi! I am Su! 👋
+# Hi, I am Su! 👋
 I am currently a Pipeline Technical Director at Lucasfilm, The Walt Disney Company. I've spent 7 years developing digital solutions for renowned film industry leaders including Marvel Studios, Lucasfilm, Amazon Studios, and Netflix. 
 
 **Here are some topics I enjoy:**
