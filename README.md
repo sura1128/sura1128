@@ -8,7 +8,7 @@ I am a Pipeline Technical Director at Lucasfilm, The Walt Disney Company. In my 
 - ❇️ Computer Graphics and Animation
 
 **I am currently learning:**
-- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
 - 🏠 Data Warehousing & advanced Database concepts
 
 **You can reach me on:**
