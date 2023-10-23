@@ -7,8 +7,8 @@ I am a Pipeline Technical Director & Tech Product Owner at Lucasfilm, The Walt D
 - 📑 Requirements Analysis
 - ❇️ Digital Media and Animation
 
-**I am currently learning:**
-- 🤖 Artificial Intelligence
+**I am currently learning more about:**
+- 🤖 Artificial Intelligence (Generative AI)
 - 🏠 Data Warehousing & advanced Database concepts
 
 **You can reach me on:**
