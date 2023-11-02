@@ -1,5 +1,5 @@
 # Hi, I am Su! 👋
-I am a Pipeline Technical Director & Tech Product Owner at Lucasfilm, The Walt Disney Company. In my daily work, I develop digital solutions for renowned film industry leaders including Marvel Studios, Lucasfilm, Amazon Studios, and Netflix. 
+I am a Tech Product Owner & Pipeline Engineer at Lucasfilm, The Walt Disney Company. In my daily work, I develop digital solutions for renowned film industry leaders including Marvel Studios, Lucasfilm, Amazon Studios, and Netflix. 
 
 **Here are some topics I enjoy:**
 - 📑 Requirements Analysis
