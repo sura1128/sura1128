@@ -2,9 +2,9 @@
 I am a Pipeline Technical Director & Tech Product Owner at Lucasfilm, The Walt Disney Company. In my daily work, I develop digital solutions for renowned film industry leaders including Marvel Studios, Lucasfilm, Amazon Studios, and Netflix. 
 
 **Here are some topics I enjoy:**
-- 📊 Data Visualization
-- 🐍 Data Manipulation with Python & SQL
 - 📑 Requirements Analysis
+- 🐍 Coding in Python!
+- 📊 Data Visualization
 - ❇️ Digital Media and Animation
 
 **I am currently learning more about:**
