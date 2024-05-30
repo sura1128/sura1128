@@ -11,9 +11,6 @@ I am a Product Operations Specialist at Open Government Products. In the past, I
 - 🤖 Artificial Intelligence (Generative AI)
 - 🏠 Data Warehousing & advanced Database concepts
 
-**You can reach me on:**
-[https://www.linkedin.com/in/suranjana-sengupta-23a8958b/](url)
-
 
 <!--
 **sura1128/sura1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
