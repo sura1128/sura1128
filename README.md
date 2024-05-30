@@ -1,11 +1,11 @@
 # Hi, I am Su! 👋
-I am a Tech Product Owner & Pipeline Engineer at Lucasfilm, The Walt Disney Company. In my daily work, I develop digital solutions for renowned film industry leaders including Marvel Studios, Lucasfilm, Amazon Studios, and Netflix. 
+I am a Product Operations Specialist at Open Government Products. In the past, I have worked as a Software Engineer and Technical Product Owner at Lucasfilm, The Walt Disney Studios. 
 
 **Here are some topics I enjoy:**
-- 📑 Requirements Analysis
+- 📑 Product-Led Growth
+- ❇️ UX Design & User Research
 - 🐍 Coding in Python!
 - 📊 Data Visualization
-- ❇️ Digital Media and Animation
 
 **I am currently learning more about:**
 - 🤖 Artificial Intelligence (Generative AI)
